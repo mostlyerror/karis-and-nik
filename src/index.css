@@ -1,5 +1,10 @@
-body {
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -10,4 +15,28 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+@font-face {
+  font-family: 'Playlist-Script';
+  src: url('./fonts/Playlist-Script.eot');
+  src: url('./fonts/Playlist-Script.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Playlist-Script.svg#Playlist-Script') format('svg'),
+       url('./fonts/Playlist-Script.ttf') format('truetype'),
+       url('./fonts/Playlist-Script.woff') format('woff'),
+       url('./fonts/Playlist-Script.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibraSerifModern-Regular';
+  src: url('./fonts/LibraSerifModern-Regular.eot');
+  src: url('./fonts/LibraSerifModern-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/LibraSerifModern-Regular.svg#LibraSerifModern-Regular') format('svg'),
+       url('./fonts/LibraSerifModern-Regular.ttf') format('truetype'),
+       url('./fonts/LibraSerifModern-Regular.woff') format('woff'),
+       url('./fonts/LibraSerifModern-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }

@@ -1,0 +1,8 @@
+.TheDayOf {
+  background-color: #f7efea;
+  border-bottom: 1px dashed darkgrey;
+}
+
+.TheDayOf .details {
+  list-style-type: none;
+}
