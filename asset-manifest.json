@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/karis-and-nik/static/css/main.2cce8147.chunk.css",
-    "main.js": "/karis-and-nik/static/js/main.8b592030.chunk.js",
-    "main.js.map": "/karis-and-nik/static/js/main.8b592030.chunk.js.map",
+    "main.css": "/karis-and-nik/static/css/main.1ce9b46a.chunk.css",
+    "main.js": "/karis-and-nik/static/js/main.fffc7bc4.chunk.js",
+    "main.js.map": "/karis-and-nik/static/js/main.fffc7bc4.chunk.js.map",
     "runtime~main.js": "/karis-and-nik/static/js/runtime~main.20bf5613.js",
     "runtime~main.js.map": "/karis-and-nik/static/js/runtime~main.20bf5613.js.map",
-    "static/js/2.34b4fde6.chunk.js": "/karis-and-nik/static/js/2.34b4fde6.chunk.js",
-    "static/js/2.34b4fde6.chunk.js.map": "/karis-and-nik/static/js/2.34b4fde6.chunk.js.map",
+    "static/js/2.f7844318.chunk.js": "/karis-and-nik/static/js/2.f7844318.chunk.js",
+    "static/js/2.f7844318.chunk.js.map": "/karis-and-nik/static/js/2.f7844318.chunk.js.map",
     "index.html": "/karis-and-nik/index.html",
-    "precache-manifest.bc52dbc83691e4609363ec5e065a86d0.js": "/karis-and-nik/precache-manifest.bc52dbc83691e4609363ec5e065a86d0.js",
+    "precache-manifest.76eec2ef51a733def6c298f9aa3f2391.js": "/karis-and-nik/precache-manifest.76eec2ef51a733def6c298f9aa3f2391.js",
     "service-worker.js": "/karis-and-nik/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/karis-and-nik/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/karis-and-nik/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1ce9b46a.chunk.css.map": "/karis-and-nik/static/css/main.1ce9b46a.chunk.css.map",
+    "static/media/index.css": "/karis-and-nik/static/media/Playlist-Script.a18eaa30.woff2",
+    "static/media/Header.css": "/karis-and-nik/static/media/hero_1.81c78e1d.jpg"
   }
 }
